@@ -1,4 +1,7 @@
 # Olá, eu sou a Luciana 👋
+📫 Contato
+💼 LinkedIn
+https://www.linkedin.com/in/lucianareisdev/
 
 🎓 Estudante de Engenharia de Software  
 💻 Focada em desenvolvimento backend  
@@ -17,5 +20,8 @@
 
 ## 📂 Projetos
 
-🔹 Sistema de Gestão para Clínica Escola de Fisioterapia  
-🔹 LucyAcessivel IA
+🔹 **Sistema de Gestão para Clínica Escola de Fisioterapia**  
+Sistema web desenvolvido com Python e Django para gestão de pacientes, estagiários e auditoria de segurança.
+
+🔹 **LucyAcessivel IA**  
+Projeto de assistente para acessibilidade e apoio educacional utilizando inteligência artificial.
