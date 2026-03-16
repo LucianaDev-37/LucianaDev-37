@@ -1,5 +1,6 @@
 # Olá, eu sou a Luciana 👋
 📫 Contato
+
 💼 LinkedIn
 https://www.linkedin.com/in/lucianareisdev/
 
@@ -9,14 +10,21 @@ https://www.linkedin.com/in/lucianareisdev/
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Django](https://img.shields.io/badge/Django-green)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue)
+🐍![Python](https://img.shields.io/badge/Python-blue)
+
+🌐![Django](https://img.shields.io/badge/Django-green)
+
+🧩![HTML](https://img.shields.io/badge/HTML-orange)
+
+🗄️![MySQL](https://img.shields.io/badge/MySQL-blue)
+
+🐧![Linux](https://img.shields.io/badge/Linux-black)
+
+🔧![Git](https://img.shields.io/badge/Git-orange)
+
+💻![GitHub](https://img.shields.io/badge/GitHub-black)
+
+☁️![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue)
 
 ## 📂 Projetos
 
