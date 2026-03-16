@@ -1,8 +1,7 @@
 # Olá, eu sou a Luciana 👋
 📫 Contato
 
-💼 LinkedIn
-https://www.linkedin.com/in/lucianareisdev/
+💼 [LinkedIn](https://www.linkedin.com/in/lucianareisdev/)
 
 🎓 Estudante de Engenharia de Software  
 💻 Focada em desenvolvimento backend  
