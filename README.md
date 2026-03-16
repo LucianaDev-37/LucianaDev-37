@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Luciana 👋
 
-<!--
-**LucianaDev-37/LucianaDev-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Focada em desenvolvimento backend  
+🚀 Buscando estágio em tecnologia  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-green)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue)
+
+## 📂 Projetos
+
+🔹 Sistema de Gestão para Clínica Escola de Fisioterapia  
+🔹 LucyAcessivel IA
