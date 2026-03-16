@@ -20,7 +20,7 @@
 
 ## 📂 Projetos
 
-🔹[Sistema de Gestão para Clínica Escola de Fisioterapia](https://github.com/LucianaDev-37/clinica-fisioterapia)  
+🔹🏥 [Sistema de Gestão para Clínica Escola de Fisioterapia](https://github.com/LucianaDev-37/clinica-fisioterapia)  
 Sistema web desenvolvido com Python e Django para gestão de pacientes, estagiários e auditoria de segurança.
 
 🔹🤖 [LucyAcessivel IA](https://github.com/LucianaDev-37/LucyAcessivel-IA)
